@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Minkyeong Jeon 👋
 
+- 👨‍🎓 A undergraduate student in Computer Science & Engineering at Korea University
+- 👨‍💻 My interests
+   - Generative models: Text to Image, Biomedical Image Processing
+   - Multi-view real world reconstruction
+- 👩‍💻 Experience: High-performance Visual Computing Lab (Prof. Won-Ki, Jeong)  
+  
+  
 <!--
 **mingming2000/mingming2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
