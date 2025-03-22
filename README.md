@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Min 🤠</h1>
 
 
-- 🌱 I'm a CS undergraduate @ Korea Univ. and currently an exchange student @ UT Austin 🤘
+- 🌱 I'm a CS undergraduate @ Korea Univ. and currently an exchange Longhorn @ UT Austin 🤘Hook'em!
     
 - 🔭 I'm interested in 3D generative models, representation learning, and human preference learning (e.g., DPO)
 
