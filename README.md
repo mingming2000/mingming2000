@@ -5,8 +5,8 @@
     
 - 🔭 I'm interested in 3D generative models, representation learning, and human preference learning (e.g., DPO)
 
-- 🦜 I love birding , photography 📷, and traveling 🏔️ — Come check out my pics! 😊
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ming_the_moment/)  
+- 🦜 I love birding, photography 📷, and traveling 🏔️ — Come check out my pics! 😊
+   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ming_the_moment/)  
 
 
 - 📫 You can reach me at **minkyeonng@utexas.edu**
@@ -23,9 +23,13 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mkjeon-245a3a276/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mingming2000">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<a href="mailto:minkyeonng@utexas.edu" target="_blank">
+  		<img src="https://img.icons8.com/doodle/48/gmail-new.png" alt="Gmail" /></a>
+
+
       </div>
 
 </p>
