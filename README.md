@@ -28,12 +28,13 @@
 
 ### Projects
 - Don’t Be Shy: Relating LM Metrics to Speaker Confidence  
-- Synthesizing a Korean Hate Speech Dataset & Developing a Purifying LM (DPO) 🏆 Excellence Prize @ AIKU Conference, Korea Univ. (Jul 2024)  
-- Portrait Outpainting (Stable Diffusion) 🏆 Top Prize @ AIKU Conference, Korea Univ. (Mar 2024)  
-- Line Tracer: [Autonomous Cart](https://github.com/mingming2000/autobuycar) 🏆 Top Prize @ HandS Craft, Korea Univ. (Mar 2024)
-- Smart Object Guidance Device for the Visually Impaired 
-- Arctic Sea Thawing Prediction (ConvLSTM) 🏆 Excellence Prize @ AI Boot Camp, Korea Univ. (Feb 2023)  
-- Garbage Classification 🏆 Top Prize @ YCC/KUCC AI Boot Camp (Feb 2023)
+- Synthesizing a Korean Hate Speech Dataset & Developing a Purifying LM (DPO) 🏆 Excellence Prize @ AIKU Conference, Korea Univ. (Jul 2024)
+- [Improving Outpainting using Edge Generator](https://github.com/mingming2000/edge_generation)  
+- [Di-foot-sion](https://github.com/mingming2000/difootsion) : Portrait Outpainting (Stable Diffusion) 🏆 Top Prize @ AIKU Conference, Korea Univ. (Mar 2024)  
+- [Autonomous Cart](https://github.com/mingming2000/autobuycar) : Line tracer 🏆 Top Prize @ HandS Craft, Korea Univ. (Mar 2024)
+- [BlindBee](https://github.com/mingming2000/daAIson) Smart Object Guidance Device for the Visually Impaired 
+- [Arctic Sea Thawing Prediction](https://github.com/mingming2000/PolarBear) (ConvLSTM) 🏆 Excellence Prize @ AI Boot Camp, Korea Univ. (Feb 2023)  
+- [Garbage Classification](https://github.com/mingming2000/GarbageClassification) 🏆 Top Prize @ YCC/KUCC AI Boot Camp (Feb 2023)
 
 ### Couseworks
 - COSE331 Computer Graphics [Chracter Animation](https://github.com/mingming2000/COSE331) 
