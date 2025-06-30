@@ -9,7 +9,7 @@
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ming_the_moment/)  
 
 
-- 📫 You can reach me at **minkyeonng@utexas.edu**
+- 📫 You can reach me at **minkyeong@utexas.edu**
 
 
 - 👩‍💻 Experience
@@ -26,7 +26,7 @@
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/minkyeongjeon">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a href="mailto:minkyeonng@utexas.edu" target="_blank">
+	<a href="mailto:minkyeong@utexas.edu" target="_blank">
   		<img src="https://img.icons8.com/doodle/48/gmail-new.png" alt="Gmail" /></a>
 
 </div>
